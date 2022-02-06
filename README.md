@@ -4,4 +4,4 @@
 
 ![1-Logo](Images/lm-housing.PNG)
 
-![2-Logo](Images/cross-section.PNG)
+![2-Logo](Images/lm-membership.PNG)
